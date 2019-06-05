@@ -1,0 +1,39 @@
+<resources>
+    <string name="logo">logo</string>
+    <string name="yourpassword">Your Password</string>
+    <string name="btnlogin">Login</string>
+    <string name="checkboxrememberme">Remember Me</string>
+    <string name="tvregister">Register</string>
+    <string name="tvforgetpass">Forget Password</string>
+    <string name="youremail">Your Email</string>
+    <string name="app_name">P-Edu</string>
+    <string name="dialogtakepicture">Take Picture?</string>
+    <string name="dialogtakepicturea">Make sure to take your picture</string>
+    <string name="yesbutton">Yes</string>
+    <string name="nobutton">No</string>
+    <string name="registerfor">Register For</string>
+    <string name="registerdialognew">Register new account</string>
+    <string name="registrationprocess">Registration in progress</string>
+    <string name="registration">Registration</string>
+    <string name="please_insert_your_picture_as_profile_picture">Please Insert Your Picture As Profile Picture</string>
+    <string name="user_type">User Type</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="already_register">Already Register</string>
+    <string name="register">Register</string>
+    <string name="spinCou">Course</string>
+    <string name="info">Tutorial Information</string>
+    <string name="classtime">Class Time</string>
+    <string name="fee">Fee</string>
+    <string name="classday">Class Day</string>
+    <string name="btnpayment">Proceed To Payment</string>
+    <string name="btnupdate">Update Profile</string>
+    <string name="classavail">Class Available</string>
+
+
+    <string-array name="course">
+        <item>All</item>
+        <item>ICT</item>
+        <item>ACCOUNT</item>
+        <item>FINANCE</item>
+    </string-array>
+</resources>
